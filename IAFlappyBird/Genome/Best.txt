@@ -1,0 +1,12 @@
+Population Size: 1000
+Crossover Rate: Acima de 75%
+Mutation Rate: 0,25% ou 0,5%
+Elitism Rate: 20% ou 80%
+
+Hidden Neuron Count: 3
+Activation Function: Hyperbolic 
+Limiar Activation: 0
+Bias: 0
+
+Score Limit: 100
+Pipe Size: 70
